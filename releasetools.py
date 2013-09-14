@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-"""Custom OTA Package commands for fusion3"""
+"""Custom OTA Package commands for viskan"""
 
 import common
 import os

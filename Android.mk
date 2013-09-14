@@ -1,5 +1,5 @@
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(BOARD_VENDOR_PLATFORM),fusion3)
+ifeq ($(BOARD_VENDOR_PLATFORM),viskan)
     include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
