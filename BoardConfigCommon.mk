@@ -82,7 +82,7 @@ TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
 BOARD_CUSTOM_BOOTIMG_MK := device/sony/viskan-common/custombootimg.mk
 TARGET_RELEASETOOLS_EXTENSIONS := device/sony/viskan-common
 BOARD_CUSTOM_GRAPHICS := ../../../device/sony/viskan-common/recovery/graphics.c
-BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_23x41.h\"
+BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
 
 BOARD_FLASH_BLOCK_SIZE := 131072
 BOARD_HAS_NO_SELECT_BUTTON := true
